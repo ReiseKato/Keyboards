@@ -392,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "first_keyboard_project.kicad_pro",
+    "filename": "test_pcb.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -469,7 +469,7 @@
   },
   "sheets": [
     [
-      "578f18ff-aa2e-45e5-a111-943e437d3394",
+      "f2060c66-6e72-4b59-b738-f146c125db3a",
       ""
     ]
   ],
